@@ -1,4 +1,3 @@
-# rutgers-bus-shuttle-milp-optimization
 # Rutgers Bus Shuttle Network Optimization using MILP
 
 A reproducible **Mixed-Integer Linear Programming (MILP)** project for selecting Rutgers–New Brunswick bus routes and assigning buses while maintaining required stop coverage.
